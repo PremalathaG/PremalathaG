@@ -2,7 +2,7 @@
 - 👀 I’m recently completed my Masters of science in Data Science and have a strong passion for working with data,ML, and Data analytics
 - 📚 Graduated with a Master's degree in Data Science from Periyar University.
 - 💼 Worked on projects involving predictive modeling, data visualization, and data-driven decision-making.
-- 🔗 LinkedIn: https://www.linkedin.com/in/premalatha-g-590813249/
+- 🔗 LinkedIn: www.linkedin.com/in/premalatha-g
   
 
 <!---
