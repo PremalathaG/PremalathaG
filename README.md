@@ -5,7 +5,8 @@ Hi, I'm Premalatha 👋
 - Skilled in Python, SQL, and Power BI  
 - Experienced in building dashboards (Tableau, Power BI)  
 - Developed voice assistants with SpeechRecognition & pyttsx3  
-- Passionate about data analysis, automation, and backend systems  
+- Passionate about data analysis, automation, and backend systems
+
 🚀 Featured Projects
 - HR Analytics Dashboard (Tableau Public)  
 - Customer Shopping Behaviour Analysis (Python + SQL + Dashboard)  
