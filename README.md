@@ -10,7 +10,8 @@ Hi, I'm Premalatha 👋
 🚀 Featured Projects
 - HR Analytics Dashboard (Tableau Public)  
 - Customer Shopping Behaviour Analysis (Python + SQL + Dashboard)  
-- Virtual Assistant for Windows (Python)  
+- Virtual Assistant for Windows (Python)
+- Weather Prediction Using ML algorithms (Python)
 - Instagram Data Analysis & Power BI Dashboard  
 - Backend Development with Python & MySQL  
 
